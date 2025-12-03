@@ -1,9 +1,9 @@
-import User from "./Components/Basics/User"
+import { PokerGame } from "./Components/Poker/PokerGame"
 
 const App = () => {
   return (
     <div>
-      <User/>
+      <PokerGame />
     </div>
   )
 }
